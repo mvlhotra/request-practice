@@ -1,0 +1,14 @@
+{
+  "name": "request_practice",
+  "version": "1.0.0",
+  "description": "dependencies",
+  "main": "requestPractice.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nik",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
